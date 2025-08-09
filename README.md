@@ -22,9 +22,6 @@ Dependiendo del proyecto, trabajo con:
 - **Sistema Operativo**: Debian (Linux).
 - **Otras Herramientas**: Git, Bash, Tmux, Nginx, RabbitMQ.
 
-### 🌟 Proyectos Destacados
-Debido a acuerdos de confidencialidad, no puedo compartir los proyectos en los que he trabajado directamente. Sin embargo, estoy desarrollando **proyectos personales** que pronto estarán disponibles aquí. ¡Mantente atento!
-
 ### 📚 Aprendiendo y Creando
 Actualmente, estoy enfocado en:
 - Profundizar mis conocimientos en **ciberseguridad** y ethical hacking. (-"nunca se termina de aprender"-)
