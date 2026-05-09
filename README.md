@@ -1,6 +1,6 @@
-# Hola, soy Enrique Molina 👋
+# Hola, soy Enrique Molina 👋 emolinaq - EASV
 
-### Desarrollador Full-Stack | Especialista en Ciberseguridad
+### Desarrollador Full-Stack | Fanatico en Ciberseguridad
 
 ¡Bienvenido a mi perfil de GitHub! Soy un desarrollador con más de **12 años de experiencia** trabajando de manera independiente, especializado en la creación de aplicaciones web y móviles **seguras y escalables**. Mi pasión por la tecnología me ha llevado a combinar desarrollo full-stack con prácticas de ciberseguridad para garantizar soluciones robustas y confiables.
 
@@ -12,9 +12,9 @@
 
 ### 🛠️ Tecnologías y Herramientas
 Dependiendo del proyecto, trabajo con:
-- **Frontend**: Flutter, React, Angular, Next.js, JavaScript.
-- **Backend**: Node.js, Express, Python, Django, JAVA, .NET, C#, C++, FastAPI.
-- **Bases de Datos**: MongoDB, MySQL, PostgreSQL, Firebase Firestore, Redis, Convex.
+- **Frontend**: Flutter, React, Angular, Next.js, JavaScript. - actualmente desarrollando en flutter.
+- **Backend**: Node.js, Express, Python, Django, JAVA, .NET, C#, C++, FastAPI. - actualmente Python, Node.js, FastAPI
+- **Bases de Datos**: MongoDB, MySQL, PostgreSQL, Firebase Firestore, Redis, Convex. - Actuamente variada, depediendo del projecto.
 - **Ciberseguridad**:
   - Ethical Hacking, Pruebas de Penetración, OWASP Top 10.
   - Herramientas: Metasploit, Burp Suite, Nmap, Wireshark, entre otras.
@@ -25,12 +25,13 @@ Dependiendo del proyecto, trabajo con:
 ### 📚 Aprendiendo y Creando
 Actualmente, estoy enfocado en:
 - Profundizar mis conocimientos en **ciberseguridad** y ethical hacking. (-"nunca se termina de aprender"-)
-- Crear proyectos open source para compartir con la comunidad.
+- Crear proyectos open source para compartir con la comunidad. - bueh... me da pena publicar muchas cosas.
 - Explorar nuevas tecnologías como **Rust** y **Kubernetes**. 
 
 ### 📫 Contáctame
 Si quieres colaborar, tienes una pregunta o simplemente quieres charlar sobre tecnología, no dudes en contactarme:
 - LinkedIn: [Enrique Molina](https://www.linkedin.com/in/emolinaq/)
 - Email: Disponible bajo solicitud (dependiendo del tipo de consulta).
+- Tip: EASV es el acceso al vault.
 
 ¡Gracias por visitar mi perfil! Espero que encuentres algo interesante aquí. 😊
